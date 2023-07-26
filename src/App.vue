@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1>Vue 2</h1>
+        <h1>Vue 2 Vite Template</h1>
         <HelloCompo />
         <button @click="clickHandler()">{{ btnName }}</button>
         <p>testsett</p>
