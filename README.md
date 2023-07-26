@@ -1,4 +1,4 @@
-##使用
+## 使用
 ```
 // 安裝
 $ npm install
@@ -12,9 +12,9 @@ preview
 > 經測試，可以在虛擬主機(靜態)正常顯示
 
 
-###與vue cli不同之處
+### 與vue cli不同之處
 |Vite|vs|CLI|
 |:-:|:-:|:-:|
 |vite.config.js| vs |vue.config|
-|root/index.html| vs |root/public/index.html  // template  |
+|root/index.html  //template| vs |root/public/index.html  // template  |
 
