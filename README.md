@@ -16,5 +16,5 @@ preview
 |Vite|vs|CLI|
 |:-:|:-:|:-:|
 |vite.config.js| vs |vue.config|
-|root/index.html  //template| vs |root/public/index.html  // template  |
+|root/index.html  //template| vs |root/public/index.html  // template|
 
